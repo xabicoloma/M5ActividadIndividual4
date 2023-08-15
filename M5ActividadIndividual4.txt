@@ -1,0 +1,8 @@
+- ¿Qué es DDL?
+	Por sus siglas Lenguaje de Definicion de Datos, se encarga de la modificacion, definicion y eliminacion de la estructura de los objetos de la base de datos
+- ¿Cuándo se puede anular una acción DDL?
+	Las acciones DDL no pueden ser anuladas
+- ¿Cuando se utilizan comillas dobles en la creación de una tabla?
+	En el estándar SQL se pueden utilizar
+comillas dobles al poner el nombre de la tabla a fin de hacerla sensible a
+las mayúsculas
